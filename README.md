@@ -9,7 +9,7 @@ Observe high school graduation rates and see if a predictive model can be genera
 ### Team Members
 * Lane Whitmore
 * Azucena Faus
-* 
+* Jiaqi He
 
 
 ### Methods Used
